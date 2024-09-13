@@ -1,4 +1,5 @@
 console.log("Hello, World!");
+alert("Selamat Datang Pemirsah!");
 let nama = "Octavia Ramadhani";
 let umur = "19 Tahun";
 let apakahPelajar = true;
